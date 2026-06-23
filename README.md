@@ -1,113 +1,153 @@
-Harshit Bohara – Roblox Developer Portfolio
-About Me
+# 🎮 Harshit Bohara | Roblox Developer
 
-Hello! I'm Harshit, an aspiring Roblox Developer and future Software Developer from India.
+> Aspiring Roblox Developer & Software Developer
 
+---
 
-Skills
-Roblox Development
-Roblox Studio
-Lua Scripting
-GUI Development
-Game Mechanics Design
-Bug Fixing & Testing
-Game System Development
-Programming Languages
-Lua
-Python (Beginner)
-Currently Learning
-Data Stores
-Remote Events & Remote Functions
-Object-Oriented Programming
-Advanced UI Systems
-Performance Optimization
-Experience & Projects Worked On
-Ben 10 Universal Time
+## 👨‍💻 About Me
 
-Role: Roblox Developer
+ I'm **Harshit**, an aspiring Roblox Developer from India.
 
-Contributions:
+I enjoy creating game systems, mechanics, and user interfaces using **Roblox Studio** and **Lua**. Alongside Roblox development, I am also learning **Python** and software development fundamentals.
+ns.
 
-Gameplay development
-Feature implementation
-System development
-Testing and bug fixing
-AUT (A Universal Time)
+---
 
-Role: Roblox Developer
+## 🛠️ Skills
 
-Contributions:
+### Roblox Development
+- Roblox Studio
+- Lua Scripting
+- GUI Development
+- Game Systems
+- Bug Fixing
+- Gameplay Design
 
-Scripting support
-Gameplay systems
-UI improvements
-Testing and optimization
-Iron Wars
+### Programming Languages
+- Lua
+- Python (Learning)
 
-Role: Roblox Developer
+### Currently Learning
+- DataStores
+- Remote Events & Functions
+- Advanced UI Systems
+- OOP (Object-Oriented Programming)
+- Performance Optimization
 
-Contributions:
+---
 
-Gameplay mechanics
-Feature development
-Bug fixing
-Quality assurance testing
-Omniscient Reader Blox
+# 🚀 Experience & Projects
 
-Role: Roblox Developer
+## 🕒 Ben 10 Universal Time
 
-Contributions:
+**Role:** Roblox Developer
 
-Lua scripting
-Roblox Studio development
-UI implementation
-System creation
-Personal Projects
-Sprint & Stamina System
+### Contributions
+- Gameplay Development
+- Feature Implementation
+- System Development
+- Bug Fixing & Testing
 
-Status: In Progress
+---
 
-Features:
+## ⚔️ AUT (A Universal Time)
 
-Sprinting
-Stamina Drain
-Stamina Regeneration
-Custom UI
-Mobile Compatibility
+**Role:** Roblox Developer
 
-Technologies Used:
+### Contributions
+- Scripting Support
+- Gameplay Systems
+- UI Improvements
+- Testing & Optimization
 
-Lua
-Roblox Studio
-Future Projects
-Inventory System
-Item Storage
-Equip/Unequip Functionality
-Inventory UI
-Quest System
-Quest Tracking
-Reward System
-Progress Management
-Shop System
-Currency Management
-Item Purchasing
-Shop Interface
-Save Data System
-DataStore Integration
-Auto Save
-Player Progress Saving
-Learning Roadmap
-2026 Goals
-Complete 10+ Roblox systems
-Publish my first Roblox game
-Learn advanced Lua scripting
-Build a professional GitHub portfolio
-Strengthen Python programming skills
-Contribute to larger Roblox projects
-Contact Information
+---
 
-Name: Harshit Bohara
+## 🔥 Iron Wars
 
-Roblox Username: Yorichii2432
+**Role:** Roblox Developer
 
-GitHub: Harry11188
+### Contributions
+- Gameplay Mechanics
+- Feature Development
+- Bug Fixing
+- Quality Assurance
+
+---
+
+## 📖 Omniscient Reader Blox
+
+**Role:** Roblox Developer
+
+### Contributions
+- Lua Scripting
+- System Creation
+- UI Development
+- Roblox Studio Development
+
+---
+
+# 💻 Personal Projects
+
+## Sprint & Stamina System
+
+**Status:** 🟡 In Development
+
+### Features
+- Sprinting
+- Stamina Drain
+- Stamina Regeneration
+- Custom UI
+- Mobile Support
+
+### Tech Used
+- Lua
+- Roblox Studio
+
+---
+
+# 📅 Future Projects
+
+### 📦 Inventory System
+- Item Storage
+- Equip / Unequip
+- Inventory UI
+
+### 🎯 Quest System
+- Quest Tracking
+- Rewards
+- Progress System
+
+### 🛒 Shop System
+- Currency System
+- Purchases
+- Shop Interface
+
+### 💾 Save Data System
+- DataStores
+- Auto Save
+- Player Progress Saving
+
+---
+
+# 🎯 2026 Goals
+
+- Publish My First Roblox Game
+- Complete 10+ Roblox Systems
+- Master Lua Scripting
+- Learn Advanced Roblox Development
+- Build a Professional Portfolio
+- Improve Python Skills
+
+---
+
+# 📫 Contact
+
+### Roblox
+**Yorichii2432**
+
+### GitHub
+**Harry11188**
+
+---
+
+⭐ Thanks for visiting my portfolio!
